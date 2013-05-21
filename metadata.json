@@ -1,0 +1,24 @@
+{
+  "checksums": {
+    "templates/clamd.conf.erb": "3b147d3982c643b45845fe2dac0809ae",
+    "manifests/freshclam.pp": "3673ddfe6d5e569dc3d9ed7fe73f997d",
+    "templates/freshclam.conf.erb": "1ae420d01dd6f8ba49b09ff7eef6499a",
+    "README": "6d9450dab6306fef0373ca3ea07b2969",
+    "Modulefile": "a9db7ddd9cc9e39cdee69ea81acb7ac5",
+    "manifests/init.pp": "84c1175b88fff74f8f9ed590f733db05"
+  },
+  "author": "Joe McDonagh <jmcdonagh@thesilentpenguin.com>",
+  "dependencies": [
+
+  ],
+  "license": "The license the module is release under the MIT License",
+  "types": [
+
+  ],
+  "summary": "ClamAV module",
+  "description": "This module is for configuring Clam Anti-Virus",
+  "source": "UNKNOWN",
+  "project_page": "http://www.thesilentpenguin.com/",
+  "version": "0.1.0",
+  "name": "jmcdonagh-clamav"
+}
